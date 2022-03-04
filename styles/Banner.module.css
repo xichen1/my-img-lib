@@ -1,0 +1,44 @@
+.container {
+  margin: 0 0 0 13rem;
+}
+
+.title {
+  color: #49376a;
+  font-weight: 800;
+  font-size: 4rem;
+}
+
+.title1 {
+  padding: 1rem 0;
+}
+
+.subTitle1 {
+  color: #db2a2c;
+  font-size: 2rem;
+  font-family: "Secular One";
+}
+
+.subTitle2 {
+  color: #49376aa8;
+  font-size: 1.5rem;
+}
+
+.buttonWrapper {
+  margin-top: 4rem;
+}
+
+.button {
+  background-color: #db2a2c;
+  cursor: pointer;
+  color: #49376a;
+  outline: 0;
+  border: 0px;
+  font-weight: 900;
+
+  padding-top: 0.5rem /* 8px */;
+  padding-bottom: 0.5rem /* 8px */;
+  font-size: 1.125rem /* 18px */;
+  line-height: 1.75rem /* 28px */;
+  padding-left: 2rem /* 32px */;
+  padding-right: 2rem /* 32px */;
+}
